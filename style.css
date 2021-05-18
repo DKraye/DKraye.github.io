@@ -1,0 +1,22 @@
+h1{
+	font: Arial;
+	color: cyan;
+}
+h2{
+	font: sans-serif;
+	color: #455BCC ;
+}
+body {
+	background-color: grey;
+	margin: 0 auto;
+	max-width: 40em;
+	font: sans-serif;
+	font-style: italic;
+}
+strong{
+	color: #69E8AE;
+}
+p{
+	font: sans-serif;
+	font-style: italic;
+}
